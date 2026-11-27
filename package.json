@@ -1,0 +1,24 @@
+{
+  "name": "shoelution-marketplace",
+  "version": "1.0.0",
+  "description": "Shoelution: an online marketplace for buying and selling new, pre-loved, and thrifted shoes of any brand, with size profiles, condition grading, and verified sellers.",
+  "main": "index.js",
+  "scripts": {
+  "start": "node index.js"
+   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelson-panganiban/shoelution-marketplace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nelson-panganiban/shoelution-marketplace/issues"
+  },
+  "homepage": "https://github.com/nelson-panganiban/shoelution-marketplace#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
